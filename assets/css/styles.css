@@ -1,0 +1,16 @@
+body{
+    font-family: Titillium Web;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
+h1{
+    font-family: Titan One;
+}
+
+.negrita{
+    font-weight: bold;
+    
+}
