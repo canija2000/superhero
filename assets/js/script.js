@@ -84,7 +84,7 @@ $(document).ready(function(){
                         data: [{
                             type: "pie",
                             startAngle: 250,
-                            yValueFormatString: "##0.00\"%\"",
+                            yValueFormatString: "##0 \"pts\"",
                             indexLabel: "{label} {y}",
                             dataPoints: [
                                 {y: intelligence, label: "Intelligence"},
